@@ -1,7 +1,7 @@
 # BKoLogOut
 - tóm lại là ko cho web nó log out mình ra
 - mình tính làm extension nhưng mà lười, mình để source code của web trường để mọi người tinh chỉnh trong first.js, hình như là moodle api thôi, chắc phải chọc ba cái quyền xong gửi request là xong
-- mọi người muốn tiện thì có thể vào Source > Snippets > New Snippets rồi tạo snippet với script này, sau đó muốn chạy thì `Ctrl + Shift + P` và chọn cái snippet chạy
+- mọi người muốn tiện thì có thể vào F12 > Source > Snippets > New Snippets rồi tạo snippet với script này, sau đó muốn chạy thì `Ctrl + Shift + P` và chọn cái snippet chạy khỏi copy paste lằng nhằng
 - vào console paste vào
 ```js
 function startKeepAlive(freq) {
